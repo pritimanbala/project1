@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../../Study(computer)/react1/my-app"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "hello"
+	}
+}
